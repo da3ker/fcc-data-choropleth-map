@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-data-choropleth-map/static/css/main.7fbbf338.chunk.css",
+    "main.js": "/fcc-data-choropleth-map/static/js/main.7fcb1ae8.chunk.js",
+    "main.js.map": "/fcc-data-choropleth-map/static/js/main.7fcb1ae8.chunk.js.map",
+    "runtime-main.js": "/fcc-data-choropleth-map/static/js/runtime-main.b95337ce.js",
+    "runtime-main.js.map": "/fcc-data-choropleth-map/static/js/runtime-main.b95337ce.js.map",
+    "static/js/2.e4385ad3.chunk.js": "/fcc-data-choropleth-map/static/js/2.e4385ad3.chunk.js",
+    "static/js/2.e4385ad3.chunk.js.map": "/fcc-data-choropleth-map/static/js/2.e4385ad3.chunk.js.map",
+    "static/js/3.52d8c9dd.chunk.js": "/fcc-data-choropleth-map/static/js/3.52d8c9dd.chunk.js",
+    "static/js/3.52d8c9dd.chunk.js.map": "/fcc-data-choropleth-map/static/js/3.52d8c9dd.chunk.js.map",
+    "index.html": "/fcc-data-choropleth-map/index.html",
+    "static/css/main.7fbbf338.chunk.css.map": "/fcc-data-choropleth-map/static/css/main.7fbbf338.chunk.css.map",
+    "static/js/2.e4385ad3.chunk.js.LICENSE.txt": "/fcc-data-choropleth-map/static/js/2.e4385ad3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b95337ce.js",
+    "static/js/2.e4385ad3.chunk.js",
+    "static/css/main.7fbbf338.chunk.css",
+    "static/js/main.7fcb1ae8.chunk.js"
+  ]
+}
